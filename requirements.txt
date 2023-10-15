@@ -1,0 +1,6 @@
+plotly==5.6.0
+pandas==1.4.1
+streamlit==1.5.1
+python-dotenv==0.19.2
+google-auth==2.6.0
+google-cloud-language
